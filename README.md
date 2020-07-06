@@ -1,0 +1,2 @@
+# Animation-Visualization-with-Power-BI
+Based on rank, population, and workforce statistics we were able to plot cities as scattered points that moved and changed over a span of 16 years. The rise and fall of these scattered plots provided insights in the difference in population over years for major cities like New York, Los Angeles, and Chicago turning out to be the top 3 at the end of the animation.
